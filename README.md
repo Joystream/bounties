@@ -1,7 +1,6 @@
 <p align="center"><img src="img/bounties.svg"></p>
 
 
-
 # Table of Contents
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Table of Contents](#table-of-contents)
@@ -22,10 +21,9 @@
 <!-- TOC END -->
 
 
-
-
 # Overview
 This repo is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to propose to propose a bounty, and anyone is free to compete for them.
+The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise.
 
 **Keep in mind this is a WIP, and it should be expected that changes to the process will be made as the project grows.**
 
@@ -126,7 +124,8 @@ The structure will probably differ quite a lot from time to time, but the body s
     - Reporting
     - Documentation
     - Payout structure
-  - xyz
+
+In some cases, the initial post will only point to a problem, and ask for community members to first produce a rough proposal/bid with an outline of their solution, approach, milestones and size of bounty.
 
 ## Joystream Community Proposal
 
@@ -136,7 +135,7 @@ Community members, new and old, should not be afraid to propose bounties. At som
 
 #### Title
 
-- **JIP** - **Descriptive Title**
+- **JCP** - **Descriptive Title**
 
 ##### Body
 
