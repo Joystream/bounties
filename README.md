@@ -10,12 +10,14 @@
   - [List of Proposals](#list-of-proposals)
     - [Active Proposals](#active-proposals)
     - [Previous Proposals](#previous-proposals)
-  - [Step by Step Process](#step-by-step-process)
-    - [Core Team Proposal](#core-team-proposal)
-      - [Smaller Bounties](#smaller-bounties)
-      - [Larger Bounties](#larger-bounties)
-    - [Joystream Community Proposal](#joystream-community-proposal)
-      - [Structure](#structure)
+- [Step by Step Process](#step-by-step-process)
+  - [Core Team Proposal](#core-team-proposal)
+    - [Smaller Bounties](#smaller-bounties)
+      - [Title](#title)
+    - [Larger Bounties](#larger-bounties)
+      - [Title](#title-1)
+  - [Joystream Community Proposal](#joystream-community-proposal)
+    - [Structure](#structure)
       - [Title](#title-2)
 <!-- TOC END -->
 
@@ -57,20 +59,23 @@ Non-exhaustive list of **Categories**
 | #0      | N/A                          | N/A                   |   N/A            |  yy.mm.dd   | yy.mm.dd |   N/A    |   N/A           |     $N         |
 
 
-## Step by Step Process
+# Step by Step Process
 
 This depends on who initiates the bounty. Sometimes, the proposal bounty will be identified and decided by a member of Jsgenesis team. In other cases, it may be community driven.
 
-### Core Team Proposal
+## Core Team Proposal
 
 A bug, improvement, marketing campaign, etc. is discovered and identified, either internally or someone else. An [issue](issue) will be opened, and structured as follows depending on the magnitude and importance of the bounty.
 
-#### Smaller Bounties
+### Smaller Bounties
 
 If the scope of work around the bounty is fairly well contained and defined, the issue need only contain:
 
-##### Title
-**Bounty #** - **Descriptive Title** - **$N**
+---
+
+#### Title
+
+- **Bounty #** - **Descriptive Title** - **$N**
 
 ##### Body
 
@@ -83,21 +88,24 @@ Description of the problem/task and goals.
 - Some information on whether it's first come/first served, how many can claim, etc.
 
 
-#### Larger Bounties
+### Larger Bounties
 
 If the scope of work is large, complex, and perhaps largely undefined, the structure will be quite different.
 
-##### Title
-**Bounty #** - **Descriptive Title** - **$N**
+---
+
+#### Title
+
+- **Bounty #** - **Descriptive Title** - **$N**
 
 *Note that for Larger Bounties, this will just be a rough estimate*
 
-###### Introduction
+##### Introduction
 
 High level description of the problem/task and goals.
   - If applicable, include link and reference the issue in the repo it was first reported
 
-###### Executive Summary
+##### Executive Summary
 
 A brief summary of the anticipated:
   - Stages
@@ -105,7 +113,7 @@ A brief summary of the anticipated:
   - Milestones
   - Deliverables
 
-###### Body
+##### Body
 
 The structure will probably differ quite a lot from time to time, but the body should at contain the following with some level of detail:
   - Stages
@@ -120,14 +128,15 @@ The structure will probably differ quite a lot from time to time, but the body s
     - Payout structure
   - xyz
 
-### Joystream Community Proposal
+## Joystream Community Proposal
 
 Community members, new and old, should not be afraid to propose bounties. At some point, we hope to create a system either similar to the [BIP](https://github.com/bitcoin/bips) process for bitcoin and/or to the [FFS](https://forum.getmonero.org/9/work-in-progress) system for monero.
 
-#### Structure
+### Structure
 
 #### Title
-**JIP** - **Descriptive Title**
+
+- **JIP** - **Descriptive Title**
 
 ##### Body
 
