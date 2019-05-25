@@ -26,7 +26,7 @@
 
 
 # Overview
-This repo is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to make a [proposal](#proposal) for a bounty, and anyone is free to compete for them.
+This repo is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to make a [proposal](#proposals) for a bounty, and anyone is free to compete for them.
 
 Currently, all bounties will have be made `active`, funded, and evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
 
@@ -47,7 +47,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - A brief, descriptive title
 
 - **Link**
-  - Link to the [issue](issues) with details.
+  - Link to the [issue](https://github.com/Joystream/bounties/issues) with details.
 
 - **Category**
 (non-exhaustive)
@@ -84,7 +84,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
     - The value of the bounty.
   - [Concluded Bounties](#concluded-bounties)
     - The total amount paid out.
-  - If the amount is followed by `*`, consult the linked [issue](issues) for more information.
+  - If the amount is followed by `*`, consult the linked [issue](https://github.com/Joystream/bounties/issues) for more information.
 
 - **End Date**
   - The date the bounty was `concluded`
@@ -116,7 +116,7 @@ In addition to the Jsgenesis team, community members, new and old, should not be
 
 ### Step by Step
 
-This section outlines the steps from a proposals is made, to have it become an [Active Bountie](#active-bounties).
+This section outlines the steps from a proposals is made, to have it become an [Active Bounty](#active-bounties).
 
 1. If you are not familiar with the project and its goals, consider the following sources:
   - The project [manifesto](https://github.com/Joystream/manifesto)
@@ -126,7 +126,7 @@ Your proposal should preferable be in line with, or at least not orthogonal to t
 
 If you have a proposal that this not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, eg. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
 
-2. Make an [issue](issues) in this repo, structured as follows:
+2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repo, structured as follows:
 
 
 #### Title
@@ -140,7 +140,7 @@ Provide a description of the problem or improvement you wish to see implemented.
 - **Goals:**
 A brief description of the goals you hope to achieve, and how it will benefit the Joystream Project.
 
-These are the minimum requirements, but you are encouraged to look at the [bounty structure](#body-2) for anything extra to add.
+These are the minimum requirements, but you are encouraged to look at the [bounty structure](#body-1) for anything extra to add.
 
 3. If you wish, announce your proposal in one of our communication channels mentioned above. This will likely generate more feedback.
 
@@ -150,7 +150,7 @@ These are the minimum requirements, but you are encouraged to look at the [bount
 
 # Announcing Active Bounties
 
-When a [proposal](#joystream-community-proposals) has been approved, or Jsgenesis have identified something suitable for a bounty, it will be announced as an [issue](issues), and added to the [Active Bounties](#active-bounties) table.
+When a [proposal](#proposals) has been approved, or Jsgenesis have identified something suitable for a bounty, it will be announced as an [issue](https://github.com/Joystream/bounties/issues), and added to the [Active Bounties](#active-bounties) table.
 
 How the process looks from `Active` stage to `Concluded` will depend on the scope of work, **Category**, payout structure, etc.
 
@@ -166,7 +166,7 @@ Most bounties will be fairly contained, well defined and does not require much c
 
 ### Step by Step
 
-1. The [issue](issues) defining the bounty will be opened, and structured as follows:
+1. The [issue](https://github.com/Joystream/bounties/issues) defining the bounty will be opened, and structured as follows:
 
 
 #### Title
@@ -176,7 +176,7 @@ Most bounties will be fairly contained, well defined and does not require much c
 #### Body
 
 - **Problem:**
-A description of the problem, and if applicable, a link to the original [proposal](#joystream-community-proposals) and appropriate issue(s) in affected repo(s).
+A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repo(s).
 - **Goals:**
 A description of what the bounty should achieve.
 - **Reward:**
@@ -197,7 +197,7 @@ If applicable.
 
 3. Once a party submits their work, a member of Jsgenesis will evaluate the work.
 
-4. If the submitted work qualifies, the payment will be paid and the bounty will be moved from [active](#active-bounties) to [concluded](#concluded-bounties), and the [issue](#issues) will be closed.
+4. If the submitted work qualifies, the payment will be paid and the bounty will be moved from [active](#active-bounties) to [concluded](#concluded-bounties), and the [issue](#https://github.com/Joystream/bounties/issues) will be closed.
 
 ## Less Defined Bounties
 
@@ -207,7 +207,7 @@ These kinds of bounties may fall under more than one category, and require sever
 
 ### Step by Step
 
-1. The [issue](issues) defining the bounty will be opened, and structured as follows:
+1. The [issue](https://github.com/Joystream/bounties/issues) defining the bounty will be opened, and structured as follows:
 
 #### Title
 
@@ -216,7 +216,7 @@ These kinds of bounties may fall under more than one category, and require sever
 #### Introduction
 
 - **Problem:**
-A description of the problem, and if applicable, a link to the original [proposal](#joystream-community-proposals) and appropriate issue(s) in affected repo(s).
+A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repo(s).
 - **Goals:**
 A description of what the bounty should achieve.
 - **Reward:**
@@ -260,4 +260,4 @@ Any constraints that the applicants must consider.
 
 5. For each **Milestone** reached, the assignee(s) will receive the agreed part of the payment.
 
-6. Once the final **Milestone** is reached and approved, any outstanding payment will be made, the bounty will be moved from [active](#active-bounties) to [concluded](#concluded-bounties), and the [issue](#issues) will be closed.
+6. Once the final **Milestone** is reached and approved, any outstanding payment will be made, the bounty will be moved from [active](#active-bounties) to [concluded](#concluded-bounties), and the [issue](https://github.com/Joystream/bounties/issues) will be closed.
