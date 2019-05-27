@@ -5,6 +5,10 @@
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+  - [Summary of Bounties](#summary-of-bounties)
+  - [Summary of Testnet Participation Payouts](#summary-of-testnet-participation-payouts)
+    - [Athens](#athens)
+    - [Sparta](#sparta)
 - [Contribute](#contribute)
   - [Bounties](#bounties)
     - [Active Bounties](#active-bounties)
@@ -32,7 +36,35 @@ Currently, all bounties will have be made `active`, funded, and evaluated by [Js
 
 The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
-**Keep in mind this is a WIP, and it should be expected that changes to the process will be made as the project grows.**
+Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
+
+
+**Keep in mind that our bounty system is a WIP, and it should be expected that changes to the process will be made as the project grows.**
+
+## Summary of Bounties
+
+| Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid |Actually Paid`*` |
+|:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
+| 27.05.19     |        0           |         1        |    **$250**     |     **$460**    |
+
+`*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on telegram.
+
+
+## Summary of Testnet Participation Payouts
+
+### Athens
+
+| Last Updated | Validators | Council Members | Storage Providers| Total           |
+|:------------:|:----------:|:---------------:|:----------------:|:---------------:|
+| 27.05.19     |     $147   |       $136      |      $475        |   **$758**      |
+
+
+### Sparta
+
+| Last Updated | Validators | Council Members |     Total       |
+|:------------:|:----------:|:---------------:|:---------------:|
+| 01.04.19     |     $111   |      $155       |     **$266**    |
+
 
 # Contribute
 
@@ -98,7 +130,8 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 | Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Bounty |
 |:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:------:|
-| #0      | N/A                          | N/A         |   N/A            |  yy.mm.dd   |   N/A      |    N/A     | $N`*`  |
+| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 |   N/A      |    Open   | $2`*`  |
+| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |   N/A      |    Open   | $2`*`  |
 
 
 
@@ -106,7 +139,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 | Number  |           Title              | Link                  | Category         | Start Date  | End Date | Status   | Claimant(s)     | Bounty |
 |:-------:|:----------------------------:|:---------------------:|:----------------:|:-----------:|:--------:|:--------:|:---------------:|:------:|
-| #0      | N/A                          | N/A                   |   N/A            |  yy.mm.dd   | yy.mm.dd |   N/A    |   N/A           |   $N   |
+| #0      | N/A                          | N/A                   |   N/A            |  dd.mm.yy   | dd.mm.yy |   N/A    |   N/A           |   $N   |
 
 
 ## Proposals
