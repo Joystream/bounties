@@ -45,7 +45,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid |Actually Paid`*` |
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
-| 27.05.19     |        0           |         2        |    **$250**     |     **$460**    |
+| 27.05.19     |        0           |         2        |    **$254**     |     **$464**    |
 
 `*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on telegram.
 
@@ -111,6 +111,9 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
     - `Aborted`
   - More details on the status can be found by following the link for the proposal of interest.
 
+- **Paid**
+  - The amount paid out thus far.
+
 - **Bounty**
   - [Active Bounties](#active-bounties)
     - The value of the bounty.
@@ -128,10 +131,10 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 ### Active Bounties
 
-| Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Bounty |
-|:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:------:|
-| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 |   N/A      |    Open   | $2`*`  |
-| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |   N/A      |    Open   | $2`*`  |
+| Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Paid | Updated | Bounty |
+|:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:----:|:-------:|:------:|
+| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 |   N/A      |    Open   | $4 | 05.06.19 |$2`*`  |
+| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | Assigned  |  $250 | 05.06.19 | $N`*`  |
 
 
 
