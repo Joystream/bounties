@@ -45,7 +45,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid |Actually Paid`*` |
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
-| 27.05.19     |        0           |         2        |    **$254**     |     **$464**    |
+| 05.06.19     |        0           |         2        |    **$254**     |     **$468**    |
 
 `*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on telegram.
 
@@ -56,7 +56,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 03.06.19     |     $177   |       $200      |      $550        |   **$927**      |
+| 03.06.19     |     $203   |       $200      |      $625        |   **$1032**     |
 
 
 ### Sparta
