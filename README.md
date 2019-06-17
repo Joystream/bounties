@@ -56,7 +56,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 03.06.19     |     $203   |       $200      |      $625        |   **$1032**     |
+| 17.06.19     |     $233   |       $272      |      $700        |   **$1205**     |
 
 
 ### Sparta
