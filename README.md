@@ -7,6 +7,8 @@
 - [Overview](#overview)
   - [Summary of Bounties](#summary-of-bounties)
   - [Summary of Testnet Participation Payouts](#summary-of-testnet-participation-payouts)
+  - [Total](#total)
+    - [Acropolis](#acropolis)
     - [Athens](#athens)
     - [Sparta](#sparta)
 - [Contribute](#contribute)
@@ -52,11 +54,25 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 ## Summary of Testnet Participation Payouts
 
+## Total
+
+| Last Updated | Validators | Council Members | Storage Providers| Total           |
+|:------------:|:----------:|:---------------:|:----------------:|:---------------:|
+| 24.06.19     |    $374    |      $427       |      $775        |   **$1576**     |
+
+
+### Acropolis
+
+| Last Updated | Validators | Council Members | Storage Providers| Total           |
+|:------------:|:----------:|:---------------:|:----------------:|:---------------:|
+| 24.06.19     |     $0     |       $0        |      $0          |      **$0**     |
+
+
 ### Athens
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 17.06.19     |     $233   |       $272      |      $700        |   **$1205**     |
+| 24.06.19     |     $263   |       $272      |      $775        |   **$1310**     |
 
 
 ### Sparta
