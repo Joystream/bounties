@@ -58,14 +58,14 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 02.07.19     |    $404    |      $497       |     $1217        |   **$2118**     |
+| 08.07.19     |    $454    |      $577       |     $1417        |   **$2448**     |
 
 
 ### Acropolis
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 02.07.19     |     $30    |      $70        |      $342        |    **$442**     |
+| 08.07.19     |     $80    |      $150       |      $642        |    **$872**     |
 
 
 ### Athens
@@ -150,8 +150,8 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 | Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Paid | Updated | Bounty |
 |:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:----:|:-------:|:------:|
 | #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 |   N/A      |    Open   | $4 | 05.06.19 |$2`*`  |
-| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | Assigned  |  $250 | 05.06.19 | $N`*`  |
-
+| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | Assigned  |  $550 | 03.07.19 | $N`*`  |
+| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 |  N/A     | N/A  |  $0 | 03.07.19 | $50  |
 
 
 ### Concluded Bounties
