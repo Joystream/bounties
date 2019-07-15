@@ -45,9 +45,9 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 ## Summary of Bounties
 
-| Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid |Actually Paid`*` |
+| Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid | Old Payouts`*`  |
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
-| 05.06.19     |        0           |         2        |    **$254**     |     **$468**    |
+| 13.07.19     |        0           |         3        |    **$604**     |     **$214**    |
 
 `*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on telegram.
 
@@ -151,7 +151,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 |:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:----:|:-------:|:------:|
 | #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 |   N/A      |    Open   | $4 | 05.06.19 |$2`*`  |
 | #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | Assigned  |  $550 | 03.07.19 | $N`*`  |
-| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 |  N/A     | N/A  |  $0 | 03.07.19 | $50  |
+| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 | @kamalzaman | Open  |  $50 | 13.07.19 | $50+  |
 
 
 ### Concluded Bounties
