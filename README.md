@@ -176,7 +176,7 @@ This section outlines the steps from a proposals is made, to have it become an [
   - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs)
 Your proposal should preferable be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repos can also be a good source.
 
-If you have a proposal that this not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, eg. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
+If you have a proposal that this not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
 
 2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repo, structured as follows:
 
@@ -276,7 +276,7 @@ An *estimate* of the size and structure of the reward.
 - **Stages:**
 An outline of the stages the potential applicants should consider.
 - **Application Deadline:**
-The deadline for potential applicants to announce their interest, and if applicable, submit the initial **Delivarables**.
+The deadline for potential applicants to announce their interest, and if applicable, submit the initial **Deliverables**.
 - **Bounty format:**
 Whether it's a race, multiple entries can get the reward, etc.
 
