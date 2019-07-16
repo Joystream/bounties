@@ -34,7 +34,7 @@
 # Overview
 This repo is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to make a [proposal](#proposals) for a bounty, and anyone is free to compete for them.
 
-Currently, all bounties will have be made `active`, funded, and evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
+Currently, all bounties will be made `active`, funded, and will be evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
 
 The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
@@ -49,7 +49,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
 | 13.07.19     |        0           |         3        |    **$604**     |     **$214**    |
 
-`*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on telegram.
+`*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on Telegram.
 
 
 ## Summary of Testnet Participation Payouts
@@ -113,8 +113,8 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - The date the bounty became `active`
 
 - **Assignee(s)**
-  - If an applicant has been approved to start work, the persons github `Username` will be listed.
-  - In some circumstances, it can be acceptable to just state `Assigned`
+  - If an applicant has been approved to start work, the person's GitHub `Username` will be listed.
+  - In some circumstances, it can be acceptable to just state `Assigned`.
 
 - **Status**
   - [Active Bounties](#active-bounties)
@@ -141,8 +141,8 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - The date the bounty was `concluded`
 
 - **Claimant(s)**
-  - If the bounty was successfully claimed, the persons github `Username` will be listed.
-  - In some circumstances, it can be acceptable to just state `Claimed`
+  - If the bounty was successfully claimed, the person's GitHub `Username` will be listed.
+  - In some circumstances, it can be acceptable to just state `Claimed`.
 
 
 ### Active Bounties
@@ -171,12 +171,12 @@ In addition to the Jsgenesis team, community members, new and old, should not be
 This section outlines the steps from a proposals is made, to have it become an [Active Bounty](#active-bounties).
 
 1. If you are not familiar with the project and its goals, consider the following sources:
-  - The project [manifesto](https://github.com/Joystream/manifesto)
-  - The project [whitepaper](https://github.com/Joystream/whitepaper)
-  - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs)
-Your proposal should preferable be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repos can also be a good source.
+  - The project [manifesto](https://github.com/Joystream/manifesto).
+  - The project [whitepaper](https://github.com/Joystream/whitepaper).
+  - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs).
+Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repos can also be a good source.
 
-If you have a proposal that this not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
+If you have a proposal that does not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [Telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
 
 2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repo, structured as follows:
 
@@ -196,7 +196,7 @@ These are the minimum requirements, but you are encouraged to look at the [bount
 
 3. If you wish, announce your proposal in one of our communication channels mentioned above. This will likely generate more feedback.
 
-4. A member of Jsgenesis team will reply in a timely manner, asking for more information, rejecting or approving your proposal.
+4. A member of the Jsgenesis team will reply in a timely manner, asking for more information, rejecting or approving your proposal.
 
 5. If it gets approved, Jsgenesis will either write and announce the bounty as described below, or delegate the responsibility.
 
@@ -204,11 +204,11 @@ These are the minimum requirements, but you are encouraged to look at the [bount
 
 When a [proposal](#proposals) has been approved, or Jsgenesis have identified something suitable for a bounty, it will be announced as an [issue](https://github.com/Joystream/bounties/issues), and added to the [Active Bounties](#active-bounties) table.
 
-How the process looks from `Active` stage to `Concluded` will depend on the scope of work, **Category**, payout structure, etc.
+How the process looks from the `Active` stage to `Concluded` will depend on the scope of work, **Category**, payout structure, etc.
 
 ## Well Defined Bounties
 
-Most bounties will be fairly contained, well defined and does not require much communication back and forth. These will typically fall under one of these **Categories**:
+Most bounties will be fairly contained, well defined and will not require much communication back and forth. These will typically fall under one of the following **Categories**:
 
 - `Bug fix`
 - `Testing`
@@ -253,7 +253,7 @@ If applicable.
 
 ## Less Defined Bounties
 
-In some cases, an [Active Bounty](#active-bounties) may not be as well defined and contained. In addition to the "known unknowns" there may "unknown knowns", and even the dreaded "unknown unknowns".
+In some cases, an [Active Bounty](#active-bounties) may not be as well defined and contained. In addition to the "known unknowns" there may be "unknown knowns", and even the dreaded "unknown unknowns".
 
 These kinds of bounties may fall under more than one category, and require several more steps.
 
@@ -282,10 +282,10 @@ Whether it's a race, multiple entries can get the reward, etc.
 
 #### Further
 
-As outlined earlier, the exact content of this section will vary from time to time. The points below is meant for guidance only.
+As outlined earlier, the exact content of this section will vary from time to time. The points below are meant for guidance only.
 
 - **Scope of Work:**
-Unlike for the [well defined bounties](#well-defined-bounties), this may be a rough outline, or even just one initial suggestion
+Unlike for the [well defined bounties](#well-defined-bounties), this may be a rough outline, or even just one initial suggestion.
 - **Stages:**
 An outline of the stages the potential applicants should consider. The stages below are neither fixed, nor exhaustive:
   - *Draft*, denoting feedback, questions and comments are needed.
@@ -306,7 +306,7 @@ Any constraints that the applicants must consider.
 
 2. For these kinds of bounties, we expect an iterative process, where community members, the Jsgenesis team, potential applicants and others can ask questions.
 
-3. Once the *Draft* and *Initial* stage have been concluded, Jsgenesis will announce the applicants that will be paid to produce *Tender*, based on input from previous round(s) and Jsgenesis. Note that others can produce a *Tender* as well, but can't expect to be paid for their work.
+3. Once the *Draft* and *Initial* stages have been concluded, Jsgenesis will announce the applicants that will be paid to produce *Tender*, based on input from previous round(s) and Jsgenesis. Note that others can produce a *Tender* as well, but can't expect to be paid for their work.
 
 4. After the *Tenders* are submitted, Jsgenesis will assign the best applicant(s).
 
