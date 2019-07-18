@@ -47,7 +47,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid | Old Payouts`*`  |
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
-| 13.07.19     |        0           |         3        |    **$604**     |     **$214**    |
+| 17.07.19     |        0           |         3        |    **$626**     |     **$214**    |
 
 `*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on Telegram.
 
@@ -107,6 +107,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - `Governance`
   - `New feature`
   - `Project management`
+  - `Help`
 
 
 - **Start Date**
@@ -121,6 +122,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
     - `Open`
     - `Assigned`
     - `Under review`
+    - `On Hold`
   - [Concluded Bounties](#concluded-bounties)
     - `Completed`
     - `Expired`
@@ -149,9 +151,10 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 | Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Paid | Updated | Bounty |
 |:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:----:|:-------:|:------:|
-| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 | Multiple |    Open   | $26 | 17.07.19 |$2`*`  |
-| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | Assigned  |  $550 | 03.07.19 | $N`*`  |
-| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 | @kamalzaman | Open  |  $50 | 13.07.19 | $50+  |
+| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 | Multiple |    `Open`   | $26 | 17.07.19 |$2`*`  |
+| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | `Assigned`  |  $550 | 03.07.19 | $N`*`  |
+| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 | @kamalzaman | `On Hold`  |  $50 | 13.07.19 | $50  |
+| #3      | Source(s) of content | [#3](https://github.com/Joystream/bounties/issues/20)| `Help`|  18.07.19 | NA | `Open` |  $0 | NA | $200  |
 
 
 ### Concluded Bounties
