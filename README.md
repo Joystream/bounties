@@ -32,13 +32,13 @@
 
 
 # Overview
-This repo is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to make a [proposal](#proposals) for a bounty, and anyone is free to compete for them.
+This repository is where we publish, track and document the bounty system for the Joystream platform. Anyone is free to make a [proposal](#proposals) for a bounty, and anyone is free to compete for them.
 
 Currently, all bounties will be made `active`, funded, and will be evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
 
 The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
-Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
+Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repository](https://github.com/Joystream/helpdesk).
 
 
 **Keep in mind that our bounty system is a WIP, and it should be expected that changes to the process will be made as the project grows.**
@@ -49,7 +49,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
 | 17.07.19     |        0           |         3        |    **$626**     |     **$214**    |
 
-`*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on Telegram.
+`*` Denotes bounties paid out before this "official" repository was up. Some of these bounties can be found in other repository's, some were simply posted on Telegram.
 
 
 ## Summary of Testnet Participation Payouts
@@ -92,7 +92,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - When a bounty becomes `active`, it will be assigned a number based on its chronological order.
 
 - **Title**
-  - A brief, descriptive title
+  - A brief, descriptive title.
 
 - **Link**
   - Link to the [issue](https://github.com/Joystream/bounties/issues) with details.
@@ -111,7 +111,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 
 - **Start Date**
-  - The date the bounty became `active`
+  - The date the bounty became `active`.
 
 - **Assignee(s)**
   - If an applicant has been approved to start work, the person's GitHub `Username` will be listed.
@@ -171,17 +171,17 @@ In addition to the Jsgenesis team, community members, new and old, should not be
 
 ### Step by Step
 
-This section outlines the steps from a proposals is made, to have it become an [Active Bounty](#active-bounties).
+This section outlines the steps from the proposals to have them, to become [Active Bounties](#active-bounties).
 
 1. If you are not familiar with the project and its goals, consider the following sources:
   - The project [manifesto](https://github.com/Joystream/manifesto).
   - The project [whitepaper](https://github.com/Joystream/whitepaper).
   - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs).
-Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repos can also be a good source.
+Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repository's can also be a good source.
 
 If you have a proposal that does not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [Telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
 
-2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repo, structured as follows:
+2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repository, structured as follows:
 
 
 #### Title
@@ -231,7 +231,7 @@ Most bounties will be fairly contained, well defined and will not require much c
 #### Body
 
 - **Problem:**
-A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repo(s).
+A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repositories.
 - **Goals:**
 A description of what the bounty should achieve.
 - **Reward:**
@@ -256,7 +256,7 @@ If applicable.
 
 ## Less Defined Bounties
 
-In some cases, an [Active Bounty](#active-bounties) may not be as well defined and contained. In addition to the "known unknowns" there may be "unknown knowns", and even the dreaded "unknown unknowns".
+In some cases, an [Active Bounty](#active-bounties) may not be as well-defined and contained. In addition to the "known unknowns" there may be "unknown knowns", and even the dreaded "unknown unknowns".
 
 These kinds of bounties may fall under more than one category, and require several more steps.
 
@@ -271,7 +271,7 @@ These kinds of bounties may fall under more than one category, and require sever
 #### Introduction
 
 - **Problem:**
-A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repo(s).
+A description of the problem, and if applicable, a link to the original [proposal](#proposals) and appropriate issue(s) in affected repositories.
 - **Goals:**
 A description of what the bounty should achieve.
 - **Reward:**
