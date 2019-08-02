@@ -41,7 +41,7 @@ The payouts will be made in [monero](https://web.getmonero.org/) unless noted ot
 Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repository](https://github.com/Joystream/helpdesk).
 
 
-**Keep in mind that our bounty system is a WIP, and it should be expected that changes to the process will be made as the project grows.**
+**Keep in mind that our bounty system is a WIP (Work In Progress), and it should be expected that changes to the process will be made as the project grows.**
 
 ## Summary of Bounties
 
@@ -49,7 +49,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
 | 17.07.19     |        0           |         3        |    **$626**     |     **$214**    |
 
-`*` Denotes bounties paid out before this "official" repository was up. Some of these bounties can be found in other repository's, some were simply posted on Telegram.
+`*` Denotes bounties paid out before this "official" repository was up. Some of these bounties can be found in other repositories, some were simply posted on Telegram.
 
 
 ## Summary of Testnet Participation Payouts
@@ -84,7 +84,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 # Contribute
 
-Contributors to the Joystream platform shall, if applicable to the scope of work, follow the guidelines outlined [here](https://github.com/Joystream/joystream#contribute) in our [landing repo](https://github.com/Joystream/joystream).
+Contributors to the Joystream platform shall, if applicable to the scope of work, follow the guidelines outlined [here](https://github.com/Joystream/joystream#contribute) in our [landing repository](https://github.com/Joystream/joystream).
 
 ## Bounties
 
@@ -140,7 +140,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
   - If the amount is followed by `*`, consult the linked [issue](https://github.com/Joystream/bounties/issues) for more information.
 
 - **End Date**
-  - The date the bounty was `concluded`
+  - The date the bounty was `concluded`.
 
 - **Claimant(s)**
   - If the bounty was successfully claimed, the person's GitHub `Username` will be listed.
@@ -177,7 +177,7 @@ This section outlines the steps from the proposals to have them, to become [Acti
   - The project [manifesto](https://github.com/Joystream/manifesto).
   - The project [whitepaper](https://github.com/Joystream/whitepaper).
   - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs).
-Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repository's can also be a good source.
+Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repositories can also be a good source.
 
 If you have a proposal that does not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [rocket.chat](https://chat.joystream.org/home), [Telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
 
