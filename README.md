@@ -1,9 +1,9 @@
 <p align="center"><img src="img/bounties.svg"></p>
 
+Table of Contents
+=================
 
-# Table of Contents
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Summary of Bounties](#summary-of-bounties)
   - [Summary of Testnet Participation Payouts](#summary-of-testnet-participation-payouts)
@@ -58,14 +58,14 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 25.07.19     |    $607    |      $687       |     $2339        |   **$3633**     |
+| 05.08.19     |    $657    |      $687       |     $2639        |   **$3983**     |
 
 
 ### Acropolis
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 25.07.19     |     $233   |      $260       |      $1564       |    **$2057**    |
+| 05.08.19     |     $283   |      $260       |      $1864       |    **$2407**    |
 
 
 ### Athens
