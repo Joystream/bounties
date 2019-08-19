@@ -58,14 +58,14 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 12.08.19     |    $707    |      $687       |     $2939        |   **$4333**     |
+| 19.08.19     |    $757    |      $857       |     $3239        |   **$4853**     |
 
 
 ### Acropolis
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 12.08.19     |    $333    |      $260       |      $2164       |    **$2757**    |
+| 19.08.19     |    $383    |      $430       |      $2464       |    **$3277**    |
 
 
 ### Athens
@@ -154,7 +154,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 | #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 | Multiple |    `Open`   | $26 | 17.07.19 |$2`*`  |
 | #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | `Assigned`  |  $550 | 03.07.19 | $N`*`  |
 | #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 | @kamalzaman | `On Hold`  |  $50 | 13.07.19 | $50  |
-| #3      | Source(s) of content | [#3](https://github.com/Joystream/bounties/issues/20)| `Help`|  18.07.19 | NA | `Open` |  $0 | NA | $200  |
+| #3      | Source(s) of content | [#3](https://github.com/Joystream/bounties/issues/20)| `Help`|  18.07.19 | NA | `Under review` |  $0 | NA | $200  |
 
 
 ### Concluded Bounties
