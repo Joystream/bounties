@@ -36,7 +36,7 @@ This repo is where we publish, track and document the bounty system for the Joys
 
 Currently, all bounties will be made `active`, funded, and will be evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
 
-The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using Monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
+The payouts will be made in [Monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using Monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
 Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
 
