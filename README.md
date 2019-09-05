@@ -36,7 +36,7 @@ This repo is where we publish, track and document the bounty system for the Joys
 
 Currently, all bounties will be made `active`, funded, and will be evaluated by [Jsgenesis](https://blog.joystream.org/jsgenesis/). In the future, our intention is to gradually involve the platform governance system in the decision making.
 
-The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
+The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using Monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
 Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
 
@@ -166,7 +166,7 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 ## Proposals
 
-In addition to the Jsgenesis team, community members, new and old, should not be afraid to propose bounties. At some point, we hope to create a system either similar to the [BIP](https://github.com/bitcoin/bips) process for bitcoin and/or to the [FFS](https://forum.getmonero.org/9/work-in-progress) system for monero.
+In addition to the Jsgenesis team, community members, new and old, should not be afraid to propose bounties. At some point, we hope to create a system either similar to the [BIP](https://github.com/bitcoin/bips) process for bitcoin and/or to the [FFS](https://forum.getmonero.org/9/work-in-progress) system for Monero.
 
 
 ### Step by Step
