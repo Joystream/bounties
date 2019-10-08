@@ -1,4 +1,4 @@
-q<p align="center"><img src="img/bounties.svg"></p>
+<p align="center"><img src="img/bounties.svg"></p>
 
 Table of Contents
 =================
@@ -58,14 +58,14 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 23.09.19     |   $1007    |      $1037      |     $4873        |   **$6917**     |
+| 07.10.19     |   $1107    |      $1037      |     $5607        |   **$7751**     |
 
 
 ### Acropolis
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 23.09.19     |    $633    |      $610       |      $4098       |    **$5341**    |
+| 07.10.19     |    $733    |      $610       |      $4832       |    **$6175**    |
 
 
 ### Athens
