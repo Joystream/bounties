@@ -58,14 +58,14 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 14.10.19     |   $1157    |      $1157      |     $5974        |   **$8288**     |
+| 21.10.19     |   $1207    |      $1157      |     $6341        |   **$8705**     |
 
 
 ### Acropolis
 
 | Last Updated | Validators | Council Members | Storage Providers| Total           |
 |:------------:|:----------:|:---------------:|:----------------:|:---------------:|
-| 14.10.19     |    $783    |      $730       |      $5199       |    **$6712**    |
+| 21.10.19     |    $833    |      $730       |      $5566       |    **$7129**    |
 
 
 ### Athens
