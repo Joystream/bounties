@@ -47,7 +47,7 @@ Jsgenesis is also making weekly payouts for participation on the [Joystream test
 
 | Last Updated | Bounties Concluded | Ongoing Bounties | Officially Paid | Old Payouts`*`  |
 |:------------:|:------------------:|:----------------:|:---------------:|:---------------:|
-| 17.07.19     |        0           |         3        |    **$626**     |     **$214**    |
+| 08.01.20     |        3           |         1        |    **$1136**     |     **$214**    |
 
 `*` Denotes bounties paid out before this "official" repo was up. Some of these bounties can be found in other repos, some were simply posted on Telegram.
 
@@ -151,17 +151,17 @@ Contributors to the Joystream platform shall, if applicable to the scope of work
 
 | Number  |           Title              | Link        | Category         | Start Date  |Assignee(s) | Status     | Paid | Updated | Bounty |
 |:-------:|:----------------------------:|:-----------:|:----------------:|:-----------:|:----------:|:----------:|:----:|:-------:|:------:|
-| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 | Multiple |    `Open`   | $26 | 17.07.19 |$2`*`  |
-| #1      | Improve networking + promotional campaign | [#1](https://github.com/Joystream/bounties/issues/5)| `Marketing`|  27.05.19 |  @mochet     | `Assigned`  |  $550 | 03.07.19 | $N`*`  |
-| #2      | Test media formats | [#2](https://github.com/Joystream/bounties/issues/13)| `Testing`|  03.07.19 | @kamalzaman | `On Hold`  |  $50 | 13.07.19 | $50  |
-| #3      | Source(s) of content | [#3](https://github.com/Joystream/bounties/issues/20)| `Help`|  18.07.19 | NA | `Under review` |  $0 | NA | $200  |
+| #0      | Fix broken links, formatting, etc in READMEs | [#0](https://github.com/Joystream/bounties/issues/3)| `Documentation`|  27.05.19 | Multiple |    `Open`   | $336 | 08.01.20 |$2`*`  |
+
 
 
 ### Concluded Bounties
 
 | Number  |           Title              | Link                  | Category         | Start Date  | End Date | Status   | Claimant(s)     | Bounty |
 |:-------:|:----------------------------:|:---------------------:|:----------------:|:-----------:|:--------:|:--------:|:---------------:|:------:|
-| #x      | N/A                          | N/A                   |   N/A            |  dd.mm.yy   | dd.mm.yy |   N/A    |   N/A           |   $N   |
+| #1      | Improve networking + promotional campaign                          | [#1](https://github.com/Joystream/bounties/issues/5)                   |   `Marketing`            |  27.05.19   | 08.01.20 |   Completed    |   @mochet           |   $550   |
+| #2      | Test media formats                          | [#2](https://github.com/Joystream/bounties/issues/13)                   |   `Testing`            |  03.07.19   | 08.01.20 |   Completed    |   @kamalzaman           |   $50   |
+| #3      | Source(s) of content                          | [#3](https://github.com/Joystream/bounties/issues/20)                   |   `Help`            |  18.07.19   | 25.08.19 |   Completed    |   @finnyfound <br> @blrhc           |   $200   |
 
 
 ## Proposals
