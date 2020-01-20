@@ -1,4 +1,4 @@
-<p align="center"><img src="img/bounties.svg"></p>
+<p align="center"><img src="img/bounties_new.svg"></p>
 
 Table of Contents
 =================
