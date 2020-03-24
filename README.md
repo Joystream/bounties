@@ -38,7 +38,7 @@ Currently, all bounties will be made `active`, funded, and will be evaluated by 
 
 The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
-Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](http://testnet.joystream.org/). More information about the what you can, what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
+Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](https://testnet.joystream.org/). More information about what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
 
 
 **Keep in mind that our bounty system is a WIP, and it should be expected that changes to the process will be made as the project grows.**
@@ -179,7 +179,7 @@ This section outlines the steps from a proposals is made, to have it become an [
   - Our long or short term [OKRs](https://github.com/Joystream/joystream/tree/master/okrs).
 Your proposal should preferably be in line with, or at least not orthogonal to these sources. Referring to an issue from one of our other repos can also be a good source.
 
-If you have a proposal that does not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [Telegram](https://t.me/JoyStreamOfficial), or the forum, after it has been introduced in [Acropolis](https://github.com/Joystream/joystream/tree/master/testnets/acropolis).
+If you have a proposal that does not really fit under any of the above, feel free to gauge the interest and relevance in a more informal manner, e.g. in one of our communication channels, such as [Telegram](https://t.me/JoyStreamOfficial), or the [forum](https://testnet.joystream.org/#/forum).
 
 2. Make an [issue](https://github.com/Joystream/bounties/issues) in this repo, structured as follows:
 
@@ -293,8 +293,8 @@ Unlike for the [well defined bounties](#well-defined-bounties), this may be a ro
 An outline of the stages the potential applicants should consider. The stages below are neither fixed, nor exhaustive:
   - *Draft*, denoting feedback, questions and comments are needed.
   - *Initial*, denoting potential applicants can and should produce their initial application.
-  - *Tender*, after the *Initial* application have been received, the best contribution will be asked to expand upon their ideas. (Paid stage)
-  - *Assigned*, after the *Tenders* have been evaluated, one or more applicant will be assigned the task.
+  - *Tender*, after the *Initial* application has been received, the best contribution will be asked to expand upon their ideas. (Paid stage)
+  - *Assigned*, after the *Tenders* have been evaluated, one or more applicants will be assigned the task.
   - *Open for Contribution*, if for some reason the progress is halted, or the assignee(s) needs assistance.
 - **Milestones:**
 Assuming the **Stages** are sufficiently large and contained/independent, it makes sense to have milestones with partial payouts when one is reached.
