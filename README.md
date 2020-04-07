@@ -38,7 +38,7 @@ Currently, all bounties will be made `active`, funded, and will be evaluated by 
 
 The payouts will be made in [monero](https://web.getmonero.org/) unless noted otherwise. Our choice of using monero as the method of payment is that it's both a well established and reputable project, and arguably has better privacy features than some of the other options.
 
-Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](https://testnet.joystream.org/). More information about what you can make, and why we're doing this can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
+Jsgenesis is also making weekly payouts for participation on the [Joystream testnets](https://testnet.joystream.org/). More information about why we're doing this, and how you can participate can be found in our [helpdesk repo](https://github.com/Joystream/helpdesk).
 
 
 **Keep in mind that our bounty system is a WIP, and it should be expected that changes to the process will be made as the project grows.**
